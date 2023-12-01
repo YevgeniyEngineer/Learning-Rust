@@ -1,2 +1,14 @@
 [workspace]
-members = ["hello_world", "mutable", "functions", "control_structures", "data_structures", "enums", "error_handling", "pointers", "references", "vector"]
+members = [
+    "hello_world",
+    "mutable",
+    "functions",
+    "control_structures",
+    "data_structures",
+    "enums",
+    "error_handling",
+    "pointers",
+    "references",
+    "vector",
+    "challenges",
+]
