@@ -20,3 +20,7 @@ path = "./src/bin/serialization_json.rs"
 [[bin]]
 name = "serialization_binary"
 path = "./src/bin/serialization_binary.rs"
+
+[[bin]]
+name = "stack_vector_test"
+path = "./src/bin/stack_vector_test.rs"
